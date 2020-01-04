@@ -8,9 +8,9 @@ class MyApp extends App {
     const { Component } = this.props;
 return(
     <Container>
-      <page>
+      <Page>
         <Component />
-     </page>
+     </Page>
     </Container>
 )
 }
